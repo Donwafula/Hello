@@ -1,0 +1,1 @@
+Repository for HTML and CSS practice; making a full website in the process
