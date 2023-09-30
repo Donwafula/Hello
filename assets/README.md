@@ -1,0 +1,1 @@
+We’ll store all of the assets for our website, such as our style sheets, images, videos, e.t.c., in this folder.
