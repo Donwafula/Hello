@@ -28,3 +28,4 @@ LESSON 2: Getting to know HTML
 - Building structure (<header>, <nav>, <article>, <section>, <aside>, and <footer> elements)
 - Encoding Special Characters: For reference, a long list of character encodings may be found at http://copypastecharacter.com
 - Creating hyperlinks
+- Creating and linking parts of the same page
